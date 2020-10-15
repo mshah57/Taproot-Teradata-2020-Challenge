@@ -1,2 +1,2 @@
 # Taproot-Teradata-2020-Challenge
-Improve Taproot Platform
+The Dataset is part of Taproot 2020 Teradata challenge. Taproot helps in linking skilled volunteers with nonprofits that need assistance in areas like marketing, database design, and strategic planning. The aim of the project is to perform data analytics to help Taproot in improving their platform by identifying factors leading to better performing projects, volunteer skills that have greater success on the platform, and how the number of volunteers affect the success of the project
